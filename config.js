@@ -12,7 +12,7 @@ global.owner = [
   [''] 
 ] //Number of owners
 
-//global.pairingNumber = "" //put your bot number here
+//global.pairingNumber = "" //23273381413
 
 global.mods = ['917605902011','32460248586'] 
 global.prems = ['917605902011', '32460248586', '919398758484']
@@ -25,7 +25,7 @@ global.keysneoxrrr = ['5VC9rvNx', 'cfALv5']
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
 global.lolkeysapi = ['GataDios']
 
-global.APIs = { // API Prefix
+global.APIs = { // API Prefix .
   // name: 'https://website'
   xteam: 'https://api.xteam.xyz', 
   dzx: 'https://api.dhamzxploit.my.id',
